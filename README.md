@@ -50,7 +50,7 @@ Your local `.env` file contains specific configurations and is automatically ign
 
 ### 1. Clone and Navigate
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/rhizsf/hand-gesture-mouse.git>
 cd "handgesture mouse"
 ```
 

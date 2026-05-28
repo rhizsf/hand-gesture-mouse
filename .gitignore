@@ -1,0 +1,38 @@
+# Hand Gesture Mouse - Git Ignore
+
+# Environments and Credentials
+.env
+.env.local
+.env.secret
+.env.*
+
+# Python Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+pyvenv.cfg
+handgesturemouse/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# IDEs and Text Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
